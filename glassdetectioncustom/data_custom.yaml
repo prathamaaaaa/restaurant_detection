@@ -1,0 +1,4 @@
+train: D:\internship\python\glassdetectioncuston\train
+val : D:\internship\python\glassdetectioncuston\val
+nc: 2
+names: ["glass","goggles"]
