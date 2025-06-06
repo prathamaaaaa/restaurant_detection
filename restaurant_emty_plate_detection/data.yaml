@@ -1,0 +1,4 @@
+train: /content/drive/MyDrive/restaurant_empty_plate_detection1/train
+val: /content/drive/MyDrive/restaurant_empty_plate_detection1/valid
+nc: 1
+names: ["empty_plate"]
