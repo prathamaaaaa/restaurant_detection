@@ -1,0 +1,4 @@
+train: /content/drive/MyDrive/bottle_detection/train
+val: /content/drive/MyDrive/bottle_detection/valid
+nc: 1
+names: ["bottle_on_table"]
